@@ -36,7 +36,7 @@
 ### Математика для самых маленьких
 
 ##### Общие курсы
-* М. И. Сканави: "Элементарная математика". <a href="http://download.libgen.io/get.php?md5=894398EEA88F5816FA7A6F1D869CADBE&key=O8WV0JW70VH89RYY">(pdf)</a> <a href="http://download.libgen.io/get.php?md5=25DC193A3862001DF731FF8F0493589C&key=FSXZJIHK9AV0CA6M>(djvu)</a>
+* М. И. Сканави: "Элементарная математика". <a href="http://download.libgen.io/get.php?md5=894398EEA88F5816FA7A6F1D869CADBE&key=O8WV0JW70VH89RYY">(pdf)</a> <a href="http://download.libgen.io/get.php?md5=25DC193A3862001DF731FF8F0493589C&key=FSXZJIHK9AV0CA6M">(djvu)</a>
 
 ##### Алгебра
 * И. М. Гельфанд, А. Шень: “Алгебра”. Весь курс школьной алгебры по 9 класс.
