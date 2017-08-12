@@ -186,10 +186,33 @@
 * T. Sundstrom: "Mathematical reasoning writing and proof". В книге объясняется что такое математическое доказательство, математический факт и каким образом их можно придумывать.
 * D. Dummit R. Foote: “Abstract Algebra“. Много примеров, задач, но страшно скучный учебник, его нужно держать как справочник.
 
+
+
+
+<a name="Физика"></a>
+### Физика
+##### А. Н. Матвеев: "Курс общей физики в пяти томах."
+* <a href="http://download.libgen.io/get.php?md5=0416D7DC12911800BCC28E9EDAA60CC1&key=SWR7ELKO4CLR9THS">Механика и теория относительности</a>
+* <a href="http://download.libgen.io/get.php?md5=03BDE2660A6ACC236D2696198E9FF345&key=IC4OMUWWIEWM1XDU">Молекулярная физика</a>
+* <a href="http://download.libgen.io/get.php?md5=E0DAAC301629301B701EF918A81C6D1C&key=DABVIXVSC183WXNH">Электричество и магнетизм</a>
+* <a href="http://download.libgen.io/get.php?md5=9384CFC6BDAFEE33B8E3061DA10F6563&key=SZ9GDGXTISKVO0XZ">Оптика</a>
+* <a href="http://download.libgen.io/get.php?md5=3B01ED1F4587EE1ABE2C0BB44F5A6CC0&key=0DUJHCA9OQPFDT1R">Атомная физика</a>
+##### Д.В. Сивухин: "Курс общей физики"
+* <a href="http://download.libgen.io/get.php?md5=9594EAE618314F5037B2688BF71C4D71&key=W6YCV0AZ6AXPAF7R">Механика</a>
+* <a href="http://download.libgen.io/get.php?md5=DFBF3894C4CA2A270FE5069FEE9AF87B&key=DG73UPUDTLTIGIXB">Термодинамика и молекулярная физика</a>
+* <a href="http://download.libgen.io/get.php?md5=510B2192BE0A9394109193A742B881B9&key=MCID8Y74FKYD5ZA1">Электричество</a>
+* <a href="http://download.libgen.io/get.php?md5=51E76BA697CAA70E4B6D48DF9A9E3BEB&key=8DS8UV6LB35EP74Y">Оптика</a>
+* <a href="http://download.libgen.io/get.php?md5=2F24D320F322DAAD028FF80B35D9E77A&key=Z2X7AUMPKANE5CFW">Атомная физика</a>
+* <a href="http://download.libgen.io/get.php?md5=E6029943358DF801A846A232A84EADE5&key=SVGT8WVRJY8J8IQH">Ядерная физика</a>
+##### Берклеевский курс физики
+* Киттель Ч., Найт У., Рудерман М.: "Механика". <a href="http://download.libgen.io/get.php?md5=015736768AF444B04D56A7CA3283D94B&key=4YHUVDDI8PF45GDA">(pdf)</a> <a href="http://download.libgen.io/get.php?md5=40ACA41C34CF51C77848586CE07E50BB&key=6RPWS93THVOD5OUM">(djvu)</a> <a href="http://download.libgen.io/get.php?md5=7569BE5A45FB52A216662CA844CC3828&key=4S0U6093PNWZFG0D">(EN pdf)</a>
+* Парселл Э. Электричество и магнетизм. <a href="http://download.libgen.io/get.php?md5=26B8D7DE72F7BABF96FEA503743673EB&key=0MLV09P5GR1KQFO5">(pdf)</a> <a href=http://eqworld.ipmnet.ru/ru/library/books/Berkeley_t2_ru.djvu>(djvu)</a> <a href="http://download.libgen.io/get.php?md5=C8F393756F3A8510F8D435217EBECBC5&key=QPIZL96MG018V5Z3">(EN pdf)</a>
+* Крауфорд Ф. Волны. <a href="http://download.libgen.io/get.php?md5=91F77CEF1CDF487CCC9B24B87167813B&key=ALC2XTIL1Z7KFV4W">(pdf)</a> <a href="http://download.libgen.io/get.php?md5=B6D9B525456A2C97A262C08B73E0EAC8&key=MLZCFA3ZD48BLCI3">(djvu)</a> <a href="http://download.libgen.io/get.php?md5=0580745CB47C796DBB3963A7B6945367&key=NS78Y13XMMZY0A35">(EN pdf)</a>
+* Вихман Э. Квантовая физика. <a href="http://download.libgen.io/get.php?md5=D2603322BF415145814A1EC2BD9940A3&key=1ZRB5JZIJWTT33ZN">(pdf)</a> <a href="http://download.libgen.io/get.php?md5=CEBC508208C5B39AB9C96FD04FFF4F3A&key=T5MVVT0J1VPCV1US">(djvu)</a> <a href="http://download.libgen.io/get.php?md5=4E0E69B119307C4397F95FC576B392FE&key=CUL58IK5OE2QQA1C">(EN pdf)</a>
+* Рейф Ф. Статистическая физика. <a href="http://download.libgen.io/get.php?md5=A1A4F09B81CAFAED24EEBF30FB9D3E8E&key=8C8YUTFYAM9I68XS">(djvu)</a> <a href="http://download.libgen.io/get.php?md5=98EF2B3AC1A5771B8182D41869FA7885&key=JIQNNIFZI54YRJOU">(EN pdf)</a>
+
 [↑ К содержанию](#Содержание)
-
 -----
-
 <a name="Чем-помочь"></a>
 ### Чем помочь
 
