@@ -26,10 +26,21 @@
 * [Library Genesis](http://libgen.io) — Годнейшая библиотека, где вы сможете найти почти каждую книгу из этого списка
 * [Библиотечка «Квант»](http://math.ru/lib/ser/bmkvant) — Книги, выпущенные редакцией физико-математической литературы издательства "Наука"
 * [Mathprofi.net](http://mathprofi.net) — Высшая математика просто и доступно, по 2 курс включительно
+* [MathOverflow](https://mathoverflow.net) **(eng)** — Вопросы/ответы в мире математики
 
 #### Общение
 * [Чат мехмата МГУ в Telegram](https://t.me/mechmath) — Здесь можно обсудить математику и предложения по данному списку
-* [/math/](https://2ch.hk/math) — Посвященная маетматике доска на небезызвестном форуме
+* [/math/](https://2ch.hk/math) — Посвященная математике доска на небезызвестном форуме
+
+#### Инструменты
+* [WolframAlpha](https://www.wolframalpha.com) — Решатель задачек для 1-3 курса, способен на [многое](https://www.wolframalpha.com/examples/Math.html)
+
+#### Другие списки книг
+* [Math Textbook Recommendations](http://4chan-science.wikia.com/wiki/Math_Textbook_Recommendations) **(eng)** — Список от анонов с 4chan/sci
+* [The MAA Basic Library List](https://www.maa.org/press/maa-reviews/the-basic-library-list-maas-recommendations-for-undergraduate-libraries) **(eng)** — Список от Математического сообщества Америки
+* [How to Become a Pure Mathematician](https://hbpms.blogspot.fr) **(eng)** — Интересный список, разбитый по предметам и уровням
+* [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm) **(eng)** — Список из Калифорнийского университета в Беркли
+* [Литература - НМУ](https://docs.google.com/spreadsheets/d/1UWwIIAFwSwOQLK3m--LOaMOvHUivFDEz-JAnLa87i7Q/edit) — Небольшой список рекомендаций из НМУ
 
 [↑ К содержанию](#Содержание)
 
