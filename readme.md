@@ -27,12 +27,12 @@
 * [Library Genesis](http://libgen.io) — Годнейшая библиотека, где вы сможете найти почти каждую книгу из этого списка
 * [Библиотечка «Квант»](http://math.ru/lib/ser/bmkvant) — Книги, выпущенные редакцией физико-математической литературы издательства "Наука"
 * [Mathprofi.net](http://mathprofi.net) — Высшая математика просто и доступно, по 2 курс включительно
-* [MathStackExchange](https://math.stackexchange.com/) **(eng)** Вопросы/ответы в мире математики
-* [MathOverflow](https://mathoverflow.net) **(eng)** Обсуждение более научных/исследовательских вопросов
+* [MathStackExchange](https://math.stackexchange.com) **(eng)** — Вопросы/ответы в мире математики
+* [MathOverflow](https://mathoverflow.net) **(eng)** — Обсуждение более научных/исследовательских вопросов
 
 #### Общение
 * [Чат мехмата МГУ в Telegram](https://t.me/mechmath) — Здесь можно обсудить математику и предложения по данному списку
-* [dxdy.ru](http://dxdy.ru) — Научный форум с большим математическим сообществом
+* [dxdy.ru](http://dxdy.ru) — Научный форум с крупным математическим сообществом
 * [/math/](https://2ch.hk/math) — Посвященная математике доска на небезызвестном форуме
 
 #### Инструменты
@@ -205,22 +205,27 @@
 
 -----
 
-<a name="Немного физики"></a>
+<a name="Немного-физики"></a>
 ### Немного физики
 ##### А. Н. Матвеев: "Курс общей физики в пяти томах."
+
 * <a href="http://download.libgen.io/get.php?md5=0416D7DC12911800BCC28E9EDAA60CC1&key=SWR7ELKO4CLR9THS">Механика и теория относительности</a>
 * <a href="http://download.libgen.io/get.php?md5=03BDE2660A6ACC236D2696198E9FF345&key=IC4OMUWWIEWM1XDU">Молекулярная физика</a>
 * <a href="http://download.libgen.io/get.php?md5=E0DAAC301629301B701EF918A81C6D1C&key=DABVIXVSC183WXNH">Электричество и магнетизм</a>
 * <a href="http://download.libgen.io/get.php?md5=9384CFC6BDAFEE33B8E3061DA10F6563&key=SZ9GDGXTISKVO0XZ">Оптика</a>
 * <a href="http://download.libgen.io/get.php?md5=3B01ED1F4587EE1ABE2C0BB44F5A6CC0&key=0DUJHCA9OQPFDT1R">Атомная физика</a>
-##### Д.В. Сивухин: "Курс общей физики"
+
+##### Д. В. Сивухин: "Курс общей физики"
+
 * <a href="http://download.libgen.io/get.php?md5=9594EAE618314F5037B2688BF71C4D71&key=W6YCV0AZ6AXPAF7R">Механика</a>
 * <a href="http://download.libgen.io/get.php?md5=DFBF3894C4CA2A270FE5069FEE9AF87B&key=DG73UPUDTLTIGIXB">Термодинамика и молекулярная физика</a>
 * <a href="http://download.libgen.io/get.php?md5=510B2192BE0A9394109193A742B881B9&key=MCID8Y74FKYD5ZA1">Электричество</a>
 * <a href="http://download.libgen.io/get.php?md5=51E76BA697CAA70E4B6D48DF9A9E3BEB&key=8DS8UV6LB35EP74Y">Оптика</a>
 * <a href="http://download.libgen.io/get.php?md5=2F24D320F322DAAD028FF80B35D9E77A&key=Z2X7AUMPKANE5CFW">Атомная физика</a>
 * <a href="http://download.libgen.io/get.php?md5=E6029943358DF801A846A232A84EADE5&key=SVGT8WVRJY8J8IQH">Ядерная физика</a>
+
 ##### Берклеевский курс физики
+
 * Киттель Ч., Найт У., Рудерман М.: "Механика". <a href="http://download.libgen.io/get.php?md5=015736768AF444B04D56A7CA3283D94B&key=4YHUVDDI8PF45GDA">(pdf)</a> <a href="http://download.libgen.io/get.php?md5=40ACA41C34CF51C77848586CE07E50BB&key=6RPWS93THVOD5OUM">(djvu)</a> <a href="http://download.libgen.io/get.php?md5=7569BE5A45FB52A216662CA844CC3828&key=4S0U6093PNWZFG0D">(EN pdf)</a>
 * Парселл Э. Электричество и магнетизм. <a href="http://download.libgen.io/get.php?md5=26B8D7DE72F7BABF96FEA503743673EB&key=0MLV09P5GR1KQFO5">(pdf)</a> <a href=http://eqworld.ipmnet.ru/ru/library/books/Berkeley_t2_ru.djvu>(djvu)</a> <a href="http://download.libgen.io/get.php?md5=C8F393756F3A8510F8D435217EBECBC5&key=QPIZL96MG018V5Z3">(EN pdf)</a>
 * Крауфорд Ф. Волны. <a href="http://download.libgen.io/get.php?md5=91F77CEF1CDF487CCC9B24B87167813B&key=ALC2XTIL1Z7KFV4W">(pdf)</a> <a href="http://download.libgen.io/get.php?md5=B6D9B525456A2C97A262C08B73E0EAC8&key=MLZCFA3ZD48BLCI3">(djvu)</a> <a href="http://download.libgen.io/get.php?md5=0580745CB47C796DBB3963A7B6945367&key=NS78Y13XMMZY0A35">(EN pdf)</a>
