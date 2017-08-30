@@ -43,7 +43,7 @@
 * [The MAA Basic Library List](https://www.maa.org/press/maa-reviews/the-basic-library-list-maas-recommendations-for-undergraduate-libraries) **(eng)** — Список от Математического сообщества Америки
 * [How to Become a Pure Mathematician](https://hbpms.blogspot.fr) **(eng)** — Интересный список, разбитый по предметам и уровням
 * [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm) **(eng)** — Список из Калифорнийского университета в Беркли
-* [Литература - НМУ](https://docs.google.com/spreadsheets/d/1UWwIIAFwSwOQLK3m--LOaMOvHUivFDEz-JAnLa87i7Q/edit) — Небольшой список рекомендаций из НМУ
+* [Литература - НМУ](https://docs.google.com/spreadsheets/d/1UWwIIAFwSwOQLK3m--LOaMOvHUivFDEz-JAnLa87i7Q) — Cписок рекомендаций из НМУ (листайте вкладки внизу)
 
 [↑ К содержанию](#Содержание)
 
@@ -65,7 +65,7 @@
 * А. Ю. Калинин, Д. А. Терешин: “Геометрия”, 10-11 классы. Годный учебник.
 
 #### Тригонометрия
-* И. М. Гельфанд, С.М. Львовский, А. Л. Тоом: “Тригонометрия”. Название говорит само за себя. Много геометрических и физических интерпретаций + комплексные числа, как бонус.
+* И. М. Гельфанд, С. М. Львовский, А. Л. Тоом: “Тригонометрия”. Название говорит само за себя. Много геометрических и физических интерпретаций + комплексные числа, как бонус.
 
 #### Начала анализа
 * Б. М. Давидович: “Математический анализ в 57 школе“.
@@ -227,7 +227,7 @@
 ##### Берклеевский курс физики
 
 * Киттель Ч., Найт У., Рудерман М.: "Механика". <a href="http://download.libgen.io/get.php?md5=015736768AF444B04D56A7CA3283D94B&key=4YHUVDDI8PF45GDA">(pdf)</a> <a href="http://download.libgen.io/get.php?md5=40ACA41C34CF51C77848586CE07E50BB&key=6RPWS93THVOD5OUM">(djvu)</a> <a href="http://download.libgen.io/get.php?md5=7569BE5A45FB52A216662CA844CC3828&key=4S0U6093PNWZFG0D">(EN pdf)</a>
-* Парселл Э. Электричество и магнетизм. <a href="http://download.libgen.io/get.php?md5=26B8D7DE72F7BABF96FEA503743673EB&key=0MLV09P5GR1KQFO5">(pdf)</a> <a href=http://eqworld.ipmnet.ru/ru/library/books/Berkeley_t2_ru.djvu>(djvu)</a> <a href="http://download.libgen.io/get.php?md5=C8F393756F3A8510F8D435217EBECBC5&key=QPIZL96MG018V5Z3">(EN pdf)</a>
+* Парселл Э. Электричество и магнетизм. <a href="http://download.libgen.io/get.php?md5=26B8D7DE72F7BABF96FEA503743673EB&key=0MLV09P5GR1KQFO5">(pdf)</a> <a href="http://eqworld.ipmnet.ru/ru/library/books/Berkeley_t2_ru.djvu">(djvu)</a> <a href="http://download.libgen.io/get.php?md5=C8F393756F3A8510F8D435217EBECBC5&key=QPIZL96MG018V5Z3">(EN pdf)</a>
 * Крауфорд Ф. Волны. <a href="http://download.libgen.io/get.php?md5=91F77CEF1CDF487CCC9B24B87167813B&key=ALC2XTIL1Z7KFV4W">(pdf)</a> <a href="http://download.libgen.io/get.php?md5=B6D9B525456A2C97A262C08B73E0EAC8&key=MLZCFA3ZD48BLCI3">(djvu)</a> <a href="http://download.libgen.io/get.php?md5=0580745CB47C796DBB3963A7B6945367&key=NS78Y13XMMZY0A35">(EN pdf)</a>
 * Вихман Э. Квантовая физика. <a href="http://download.libgen.io/get.php?md5=D2603322BF415145814A1EC2BD9940A3&key=1ZRB5JZIJWTT33ZN">(pdf)</a> <a href="http://download.libgen.io/get.php?md5=CEBC508208C5B39AB9C96FD04FFF4F3A&key=T5MVVT0J1VPCV1US">(djvu)</a> <a href="http://download.libgen.io/get.php?md5=4E0E69B119307C4397F95FC576B392FE&key=CUL58IK5OE2QQA1C">(EN pdf)</a>
 * Рейф Ф. Статистическая физика. <a href="http://download.libgen.io/get.php?md5=A1A4F09B81CAFAED24EEBF30FB9D3E8E&key=8C8YUTFYAM9I68XS">(djvu)</a> <a href="http://download.libgen.io/get.php?md5=98EF2B3AC1A5771B8182D41869FA7885&key=JIQNNIFZI54YRJOU">(EN pdf)</a>
