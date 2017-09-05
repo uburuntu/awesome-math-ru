@@ -22,7 +22,7 @@
 ### Математичные ссылки
 
 #### Ресурсы
-* [Library Genesis](http://libgen.io) — Годнейшая библиотека, где вы сможете найти почти каждую книгу из этого списка
+* [Library Genesis](http://libgen.io) — Крупная онлайн-библиотека, где можно найти почти каждую книгу из этого списка
 * [Библиотечка «Квант»](http://math.ru/lib/ser/bmkvant) — Книги, выпущенные редакцией физико-математической литературы издательства "Наука"
 * [Mathprofi.net](http://mathprofi.net) — Высшая математика просто и доступно, по 2 курс включительно
 * [MathStackExchange](https://math.stackexchange.com) **(eng)** — Вопросы/ответы в мире математики
@@ -41,7 +41,7 @@
 * [The MAA Basic Library List](https://www.maa.org/press/maa-reviews/the-basic-library-list-maas-recommendations-for-undergraduate-libraries) **(eng)** — Список от Математического сообщества Америки
 * [How to Become a Pure Mathematician](https://hbpms.blogspot.fr) **(eng)** — Интересный список, разбитый по предметам и уровням
 * [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm) **(eng)** — Список из Калифорнийского университета в Беркли
-* [Литература - НМУ](https://docs.google.com/spreadsheets/d/1UWwIIAFwSwOQLK3m--LOaMOvHUivFDEz-JAnLa87i7Q) — Cписок рекомендаций из НМУ (листайте вкладки внизу)
+* [Литература - НМУ](https://docs.google.com/spreadsheets/d/1UWwIIAFwSwOQLK3m--LOaMOvHUivFDEz-JAnLa87i7Q) — Список рекомендаций из НМУ (листайте вкладки внизу)
 
 [↑ К содержанию](#Содержание)
 
