@@ -1,5 +1,8 @@
 title: Математичные книги
 description: Список интересных книг по математике и около нее
+
 google_analytics: UA-123345095-1
-url: http://rmbk.me/math_books
+
+url: https://rmbk.me/math_books
+
 theme: jekyll-theme-cayman
