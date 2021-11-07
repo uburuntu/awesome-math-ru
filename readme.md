@@ -12,7 +12,7 @@
     * [Каналы в телеграме](#каналы-в-телеграме)
     * [Инструменты](#инструменты)
     * [Популярная математика](#популярная-математика)
-    * [Другие списки книг](#другие-списки-книг)
+    * [Список списков](#список-списков)
 * [Математика для самых маленьких](#математика-для-самых-маленьких)
     * [Общие курсы](#общие-курсы)
     * [Алгебра](#алгебра)
@@ -72,7 +72,7 @@
 ## Популярная математика
 * [Проект «Математические этюды»](https://etudes.ru)
 
-## Другие списки книг
+## Список списков
 * [Math Textbook Recommendations](http://4chan-science.wikia.com/wiki/Math_Textbook_Recommendations) **(eng)** — Список от анонов с 4chan/sci
 * [The MAA Basic Library List](https://www.maa.org/press/maa-reviews/the-basic-library-list-maas-recommendations-for-undergraduate-libraries) **(eng)** — Список от Математического сообщества Америки
 * [How to Become a Pure Mathematician](https://hbpms.blogspot.fr) **(eng)** — Интересный список, разбитый по предметам и уровням
