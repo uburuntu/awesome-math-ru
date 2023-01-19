@@ -78,6 +78,7 @@
 * [How to Become a Pure Mathematician](https://hbpms.blogspot.fr) **(eng)** — Интересный список, разбитый по предметам и уровням
 * [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm) **(eng)** — Список из Калифорнийского университета в Беркли
 * [Литература - НМУ](https://docs.google.com/spreadsheets/d/1UWwIIAFwSwOQLK3m--LOaMOvHUivFDEz-JAnLa87i7Q) — Список рекомендаций из НМУ (листайте вкладки внизу)
+* [Рекомендации факультета математики НИУ ВШЭ](https://math.hse.ru/books)
 
 [↑ К содержанию](#Содержание)
 
