@@ -3,6 +3,7 @@ description: Список интересных книг по математик�
 
 google_analytics: UA-123345095-1
 
-url: https://rmbk.me/math_books
+url: https://uburuntu.github.io
+baseurl: /awesome-math-ru
 
 theme: jekyll-theme-cayman
